@@ -1,0 +1,14 @@
+{
+    "targets": {
+        "rtitech2": {
+            "hosting": {
+                "rti-angular": [
+                    "rtitech2"
+                ]
+            }
+        }
+    },
+    "projects": {
+        "default": "rtifire"
+    }
+}
